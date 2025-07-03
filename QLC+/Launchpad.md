@@ -1,1 +1,1 @@
-
+vorher muss das Launchpad im "Programming mode" sein. Um diesen zu aktivieren muss man den Button in der Mitte der obersten Zeile, rechts neben den Pfeilen mit der Aufschrift **"Session"** **gedrückt halten** und danach den Button in der **Ecke ganz rechts unten** mit dem Pfeil nach rechts (dieser leuchtet rot, wenn davor der Session Button gedrückt wurde)
