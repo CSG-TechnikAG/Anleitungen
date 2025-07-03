@@ -1,3 +1,3 @@
 # Anleitungen
 
-Hier findet man Anleitungen für z.B. QLC+.
+Hier findet man Anleitungen (z.B. für QLC+).
